@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Lobste.rs" title="Lobste.rs" type="rss" 
+            xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
+      <outline text="Faster Than Lime" title="Faster Than Lime" type="rss" 
+            xmlUrl="https://fasterthanli.me/index.xml"/>
+      <outline text="Rust Blog" title="Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+      <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
+</body>
+</opml>
