@@ -22,5 +22,7 @@
             xmlUrl="https://thezvi.substack.com/feed" htmlUrl="https://thezvi.substack.com"/>
       <outline text="Graham Duncan Blog" title="Graham Duncan Blog" type="rss" 
             xmlUrl="https://grahamduncan.blog/feed/" htmlUrl="https://grahamduncan.blog/"/>
+      <outline text="Astral Codex Ten" title="Astral Codex Ten" type="rss" 
+            xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://astralcodexten.substack.com"/>
 </body>
 </opml>
