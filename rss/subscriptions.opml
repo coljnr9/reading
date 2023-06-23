@@ -24,5 +24,9 @@
             xmlUrl="https://grahamduncan.blog/feed/" htmlUrl="https://grahamduncan.blog/"/>
       <outline text="Astral Codex Ten" title="Astral Codex Ten" type="rss" 
             xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://astralcodexten.substack.com"/>
+      <outline text="James Munn Blog" title="James Munn Blog" type="rss" 
+            xmlUrl="https://jamesmunns.com/rss.xml" htmlUrl="https://jamesmunns.com"/>
+      <outline text="Ferrous Systems Blog" title="Ferrous Systems Blog" type="rss" 
+            xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
 </body>
 </opml>
