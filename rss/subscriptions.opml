@@ -30,5 +30,7 @@
             xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
       <outline text="Ted Kaminski" title="Ted Kaminski" type="rss" 
             xmlUrl="https://www.tedinski.com/feed.xml" htmlUrl="http://www.tedinski.com/"/>
+      <outline text="Julio Merino" title="Julio Merino" type="rss" 
+            xmlUrl="https://jmmv.dev/feed.xml" htmlUrl="https://jmmv.dev/"/>
 </body>
 </opml>
