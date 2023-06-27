@@ -4,16 +4,16 @@
 <title>Feed Subscriptions</title>
 </head>
 <body>
-      <outline text="Gwern" title="Gwern" type="rss" 
-            xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com"/>
       <outline text="Lobste.rs" title="Lobste.rs" type="rss" 
             xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
-      <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
-            xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
-      <outline text="Rust Blog" title="Rust Blog" type="rss" 
-            xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
       <outline text="Faster Than Lime" title="Faster Than Lime" type="rss" 
             xmlUrl="https://fasterthanli.me/index.xml"/>
+      <outline text="Rust Blog" title="Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+      <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
+      <outline text="Gwern" title="Gwern" type="rss" 
+            xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com"/>
       <outline text="The Codeless Code" title="The Codeless Code" type="rss" 
             xmlUrl="http://thecodelesscode.com/rss" htmlUrl="http://thecodelesscode.com"/>
       <outline text="Worry Dream" title="Worry Dream" type="rss" 
@@ -28,5 +28,7 @@
             xmlUrl="https://jamesmunns.com/rss.xml" htmlUrl="https://jamesmunns.com"/>
       <outline text="Ferrous Systems Blog" title="Ferrous Systems Blog" type="rss" 
             xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
+      <outline text="Ted Kaminski" title="Ted Kaminski" type="rss" 
+            xmlUrl="https://www.tedinski.com/feed.xml" htmlUrl="http://www.tedinski.com/"/>
 </body>
 </opml>
