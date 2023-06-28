@@ -36,5 +36,7 @@
             xmlUrl="https://jmmv.dev/feed.xml" htmlUrl="https://jmmv.dev/"/>
       <outline text="Milan Cvitkovic" title="Milan Cvitkovic" type="rss" 
             xmlUrl="https://milan.cvitkovic.net/writing/index.xml" htmlUrl="https://milan.cvitkovic.net/writing/"/>
+      <outline text="Luke Muehlhauser (lukeprog)" title="Luke Muehlhauser (lukeprog)" type="rss" 
+            xmlUrl="https://lukemuehlhauser.com/feed/" htmlUrl="https://lukemuehlhauser.com"/>
 </body>
 </opml>
