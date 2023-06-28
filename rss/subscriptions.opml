@@ -34,5 +34,7 @@
             xmlUrl="https://www.tedinski.com/feed.xml" htmlUrl="http://www.tedinski.com/"/>
       <outline text="Julio Merino" title="Julio Merino" type="rss" 
             xmlUrl="https://jmmv.dev/feed.xml" htmlUrl="https://jmmv.dev/"/>
+      <outline text="Milan Cvitkovic" title="Milan Cvitkovic" type="rss" 
+            xmlUrl="https://milan.cvitkovic.net/writing/index.xml" htmlUrl="https://milan.cvitkovic.net/writing/"/>
 </body>
 </opml>
