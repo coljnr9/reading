@@ -44,5 +44,7 @@
             xmlUrl="https://bakadesuyo.com/feed/" htmlUrl="https://bakadesuyo.com/"/>
       <outline text="80,000 Hours" title="80,000 Hours" type="rss" 
             xmlUrl="https://80000hours.org/feed/" htmlUrl="https://80000hours.org/"/>
+      <outline text="Wait But Why" title="Wait But Why" type="rss" 
+            xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/"/>
 </body>
 </opml>
