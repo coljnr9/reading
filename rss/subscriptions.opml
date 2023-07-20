@@ -4,16 +4,16 @@
 <title>Feed Subscriptions</title>
 </head>
 <body>
-      <outline text="Gwern" title="Gwern" type="rss" 
-            xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com"/>
       <outline text="Lobste.rs" title="Lobste.rs" type="rss" 
             xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
-      <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
-            xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
-      <outline text="Rust Blog" title="Rust Blog" type="rss" 
-            xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
       <outline text="Faster Than Lime" title="Faster Than Lime" type="rss" 
             xmlUrl="https://fasterthanli.me/index.xml"/>
+      <outline text="Rust Blog" title="Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+      <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
+      <outline text="Gwern" title="Gwern" type="rss" 
+            xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com"/>
       <outline text="The Codeless Code" title="The Codeless Code" type="rss" 
             xmlUrl="http://thecodelesscode.com/rss" htmlUrl="http://thecodelesscode.com"/>
       <outline text="Worry Dream" title="Worry Dream" type="rss" 
@@ -28,15 +28,21 @@
             xmlUrl="https://jamesmunns.com/rss.xml" htmlUrl="https://jamesmunns.com"/>
       <outline text="Ferrous Systems Blog" title="Ferrous Systems Blog" type="rss" 
             xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
-      <outline text="Signals and Threads" title="Signals and Threads" type="rss" 
-            xmlUrl="https://feeds.simplecast.com/L9810DOa" htmlUrl="https://signals-threads.simplecast.com"/>
       <outline text="Ted Kaminski" title="Ted Kaminski" type="rss" 
             xmlUrl="https://www.tedinski.com/feed.xml" htmlUrl="http://www.tedinski.com/"/>
       <outline text="Julio Merino" title="Julio Merino" type="rss" 
             xmlUrl="https://jmmv.dev/feed.xml" htmlUrl="https://jmmv.dev/"/>
+      <outline text="Signals and Threads" title="Signals and Threads" type="rss" 
+            xmlUrl="https://feeds.simplecast.com/L9810DOa" htmlUrl="https://signals-threads.simplecast.com"/>
       <outline text="Milan Cvitkovic" title="Milan Cvitkovic" type="rss" 
             xmlUrl="https://milan.cvitkovic.net/writing/index.xml" htmlUrl="https://milan.cvitkovic.net/writing/"/>
       <outline text="Luke Muehlhauser (lukeprog)" title="Luke Muehlhauser (lukeprog)" type="rss" 
             xmlUrl="https://lukemuehlhauser.com/feed/" htmlUrl="https://lukemuehlhauser.com"/>
+      <outline text="Seth&#39;s Blog" title="Seth&#39;s Blog" type="rss" 
+            xmlUrl="https://seths.blog//feed" htmlUrl="https://seths.blog"/>
+      <outline text="Barking Up The Wrong Tree" title="Barking Up The Wrong Tree" type="rss" 
+            xmlUrl="https://bakadesuyo.com/feed/" htmlUrl="https://bakadesuyo.com/"/>
+      <outline text="80,000 Hours" title="80,000 Hours" type="rss" 
+            xmlUrl="https://80000hours.org/feed/" htmlUrl="https://80000hours.org/"/>
 </body>
 </opml>
