@@ -23,7 +23,7 @@
       <outline text="Graham Duncan Blog" title="Graham Duncan Blog" type="rss" 
             xmlUrl="https://grahamduncan.blog/feed/" htmlUrl="https://grahamduncan.blog/"/>
       <outline text="Astral Codex Ten" title="Astral Codex Ten" type="rss" 
-            xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://astralcodexten.substack.com"/>
+            xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://www.astralcodexten.com"/>
       <outline text="James Munn Blog" title="James Munn Blog" type="rss" 
             xmlUrl="https://jamesmunns.com/rss.xml" htmlUrl="https://jamesmunns.com"/>
       <outline text="Ferrous Systems Blog" title="Ferrous Systems Blog" type="rss" 
@@ -48,5 +48,7 @@
             xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/"/>
       <outline text="matklad (Rust Analyzer)" title="matklad (Rust Analyzer)" type="rss" 
             xmlUrl="https://rust-analyzer.github.io//feed.xml" htmlUrl="https://rust-analyzer.github.io//"/>
+      <outline text="Len Falken&#39;s Writing" title="Len Falken&#39;s Writing" type="rss" 
+            xmlUrl="http://len.falken.directory/feed.xml" htmlUrl="http://len.falken.directory"/>
 </body>
 </opml>
