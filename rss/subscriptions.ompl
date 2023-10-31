@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="Lobste.rs" title="Lobste.rs" type="rss" 
+            xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
+      <outline text="Faster Than Lime" title="Faster Than Lime" type="rss" 
+            xmlUrl="https://fasterthanli.me/index.xml"/>
+      <outline text="Rust Blog" title="Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/feed.xml" htmlUrl="https://blog.rust-lang.org/"/>
+      <outline text="Inside Rust Blog" title="Inside Rust Blog" type="rss" 
+            xmlUrl="https://blog.rust-lang.org/inside-rust/feed.xml" htmlUrl="https://blog.rust-lang.org/inside-rust/"/>
+      <outline text="Gwern" title="Gwern" type="rss" 
+            xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.substack.com"/>
+      <outline text="The Codeless Code" title="The Codeless Code" type="rss" 
+            xmlUrl="http://thecodelesscode.com/rss" htmlUrl="http://thecodelesscode.com"/>
+      <outline text="Worry Dream" title="Worry Dream" type="rss" 
+            xmlUrl="http://worrydream.com/feed.xml" htmlUrl="http://worrydream.com/"/>
+      <outline text="The Zvi" title="The Zvi" type="rss" 
+            xmlUrl="https://thezvi.substack.com/feed" htmlUrl="https://thezvi.substack.com"/>
+      <outline text="Graham Duncan Blog" title="Graham Duncan Blog" type="rss" 
+            xmlUrl="https://grahamduncan.blog/feed/" htmlUrl="https://grahamduncan.blog/"/>
+      <outline text="Astral Codex Ten" title="Astral Codex Ten" type="rss" 
+            xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://www.astralcodexten.com"/>
+      <outline text="James Munn Blog" title="James Munn Blog" type="rss" 
+            xmlUrl="https://jamesmunns.com/rss.xml" htmlUrl="https://jamesmunns.com"/>
+      <outline text="Ferrous Systems Blog" title="Ferrous Systems Blog" type="rss" 
+            xmlUrl="https://ferrous-systems.com/blog/feed.xml"/>
+      <outline text="Ted Kaminski" title="Ted Kaminski" type="rss" 
+            xmlUrl="https://www.tedinski.com/feed.xml" htmlUrl="http://www.tedinski.com/"/>
+      <outline text="Julio Merino" title="Julio Merino" type="rss" 
+            xmlUrl="https://jmmv.dev/feed.xml" htmlUrl="https://jmmv.dev/"/>
+      <outline text="Signals and Threads" title="Signals and Threads" type="rss" 
+            xmlUrl="https://feeds.simplecast.com/L9810DOa" htmlUrl="https://signals-threads.simplecast.com"/>
+      <outline text="Milan Cvitkovic" title="Milan Cvitkovic" type="rss" 
+            xmlUrl="https://milan.cvitkovic.net/writing/index.xml" htmlUrl="https://milan.cvitkovic.net/writing/"/>
+      <outline text="Luke Muehlhauser (lukeprog)" title="Luke Muehlhauser (lukeprog)" type="rss" 
+            xmlUrl="https://lukemuehlhauser.com/feed/" htmlUrl="https://lukemuehlhauser.com"/>
+      <outline text="Seth&#39;s Blog" title="Seth&#39;s Blog" type="rss" 
+            xmlUrl="https://seths.blog//feed" htmlUrl="https://seths.blog"/>
+      <outline text="Barking Up The Wrong Tree" title="Barking Up The Wrong Tree" type="rss" 
+            xmlUrl="https://bakadesuyo.com/feed/" htmlUrl="https://bakadesuyo.com/"/>
+      <outline text="80,000 Hours" title="80,000 Hours" type="rss" 
+            xmlUrl="https://80000hours.org/feed/" htmlUrl="https://80000hours.org/"/>
+      <outline text="Wait But Why" title="Wait But Why" type="rss" 
+            xmlUrl="https://waitbutwhy.com/feed" htmlUrl="https://waitbutwhy.com/"/>
+      <outline text="matklad (Rust Analyzer)" title="matklad (Rust Analyzer)" type="rss" 
+            xmlUrl="https://rust-analyzer.github.io//feed.xml" htmlUrl="https://rust-analyzer.github.io//"/>
+      <outline text="Len Falken&#39;s Writing" title="Len Falken&#39;s Writing" type="rss" 
+            xmlUrl="http://len.falken.directory/feed.xml" htmlUrl="http://len.falken.directory"/>
+      <outline text="Google Testing Blog" title="Google Testing Blog" type="rss" 
+            xmlUrl="https://testing.googleblog.com/feeds/posts/default?alt=rss" htmlUrl="http://testing.googleblog.com/"/>
+      <outline text="ludic" title="ludic" type="rss" 
+            xmlUrl="https://ludic.mataroa.blog/rss/" htmlUrl="https://ludic.mataroa.blog"/>
+</body>
+</opml>
